@@ -1,0 +1,56 @@
+{
+    "drinks": [{
+        "_id": "f986ff0b-210b-42b3-938e-321cd8c1e549",
+        "name": "Cocacola",
+        "flavor": ""
+    }, {
+        "_id": "dffae2f9-836b-49ed-b0a1-89149af44296",
+        "name": "Sprite",
+        "flavor": ""
+    }, {
+        "_id": "04e86408-11a6-495e-b8de-6cce84a715d4",
+        "name": "Stoney",
+        "flavor": ""
+    }, {
+        "_id": "41977df3-ca43-4795-9ba6-933331d4a241",
+        "name": "Krest",
+        "flavor": ""
+    }, {
+        "_id": "a9304b25-d589-49e6-b38d-cf06dccc5b24",
+        "name": "Krest",
+        "flavor": ""
+    }, {
+        "_id": "6be7a37e-d47e-4a47-8fad-35ac289a6ba6",
+        "name": "Fanta",
+        "flavor": "Orange"
+    }, {
+        "_id": "83b95e47-bd60-4794-9d5b-85a5ac644042",
+        "name": "Fanta",
+        "flavor": "Black current"
+    }, {
+        "_id": "a0483525-bd42-44f8-940b-ede14c4b3913",
+        "name": "Fanta",
+        "flavor": "passion"
+    }, {
+        "_id": "bebad4f8-cce5-4bef-a8a6-45c7bf2c9758",
+        "name": "Fanta",
+        "flavor": "pineapple"
+    }, {
+        "_id": "7b0d272a-14b2-45fd-9306-60f3f3eff8c2",
+        "name": "Fanta",
+        "flavor": "pineapple"
+    }],
+    "data": [{
+        "drink_id": "a0483525-bd42-44f8-940b-ede14c4b3913",
+        "consumer_name": "dirk nowitzki",
+        "location": "langata",
+        "location_longitude": "112.255515",
+        "location_latitude": "74.224500"
+    }, {
+        "drink_id": "41977df3-ca43-4795-9ba6-933331d4a241",
+        "consumer_name": "mike sonko",
+        "location": "south b",
+        "location_longitude": "25.255515",
+        "location_latitude": "56.224500"
+    }]
+}

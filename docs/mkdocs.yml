@@ -1,0 +1,5 @@
+site_name: DUKA CONNECT
+pages:
+    - Home: index.md
+    - Documentation:
+        - api.md

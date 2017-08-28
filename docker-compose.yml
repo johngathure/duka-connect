@@ -1,0 +1,14 @@
+version: '2'
+services:
+  db:
+    container_name: database
+    image: postgres
+    restart: always
+  api:
+    container_name: dukaconnect
+    build: .
+    restart: always
+    ports:
+      - 8000:8000
+    depends_on:
+      - db
